@@ -1,0 +1,102 @@
+/*.zt{
+	width: 100%;
+	height: .4rem;
+	background-color: red;
+}*/
+.header{
+	 width: 100%;
+	 height: .9rem;
+	 background-color: #e8383e;
+	 padding: 0 .24rem;
+
+}
+.qx{
+	font-size: .2rem;
+	color:#f3f9f7;
+	float: left;
+	line-height: .9rem;
+	
+}
+.dl{
+	font-size: .38rem;
+	color:#f3f9f7;
+	float: left; 
+	text-align: center;
+	line-height: .9rem;
+	margin-left: 2.75rem;
+}
+.box{
+	width: 100%;
+	height: 12.15rem;
+	background-color: #f7f7f7;
+	padding-top: .29rem;
+}
+.srk{
+	width: 100%;
+	height: .74rem;
+	background-color: #ffffff;
+	/*background-color: green;*/
+	/*margin-top: .29rem;*/
+}
+.srk1{
+	background-color: #ffffff;
+	margin-top: .18rem;
+	width: 100%;
+	height: .74rem;
+	/*background-color: #ffffff;*/
+}
+.srk-hezi{
+	padding: 0 .24rem;
+}
+.sr-wz{
+	font-size: .21rem;
+	color: #d8d8d8;
+	float: left;
+	line-height: .74rem;
+}
+input{
+	color: #b5b5b5;
+	font-size: .21rem;
+	float: left;
+	margin-left: .17rem;
+	margin-top: .2rem;
+	border: 0;
+}
+.dierge{
+	margin-left: .41rem;
+}
+img{
+	width: .3rem;
+	height: .21rem;
+	float: left;
+	margin-top: .27rem;
+	margin-left: 3.5rem;
+}
+.ddl{
+	width: 5.62rem;
+	height: .64rem;
+	background-color: #ff5745;
+	margin: .37rem auto;
+	border-radius: .4rem;   	
+}
+
+.ddl-wz{
+	font-size: .23rem;
+	color: #fffbfb;
+	line-height: .64rem;
+	text-align: center;
+}
+.yzm{
+	margin-left: 4.98rem;
+}
+.kjdl{
+	font-size: .19rem;
+	color: #dddddd;
+	text-align: center;
+}
+.wxts{
+	 font-size: .2rem;
+	 color: #a3a3a3;
+	 margin: 0 auto;
+	 padding: 5.97rem .52rem 0;
+}
